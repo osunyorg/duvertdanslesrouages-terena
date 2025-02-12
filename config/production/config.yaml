@@ -2,6 +2,11 @@
 
 baseURL: https://duvertdanslesrouages-terena.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: cbbcd334-4101-4b18-a855-192a3c7568ed
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
